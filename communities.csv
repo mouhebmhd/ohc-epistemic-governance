@@ -1,0 +1,96 @@
+﻿language,subreddit_url,subreddit,focus,community_type
+English,https://www.reddit.com/r/cfs/,cfs,ME/CFS,Dedicated health
+English,https://www.reddit.com/r/covidlonghaulers/,covidlonghaulers,Long COVID,Dedicated health
+English,https://www.reddit.com/r/ChronicIllness/,ChronicIllness,General chronic illness,Dedicated health
+English,https://www.reddit.com/r/ChronicPain/,ChronicPain,Chronic pain,Dedicated health
+English,https://www.reddit.com/r/Fibromyalgia/,Fibromyalgia,Fibromyalgia,Dedicated health
+English,https://www.reddit.com/r/lupus/,lupus,Lupus,Dedicated health
+English,https://www.reddit.com/r/MultipleSclerosis/,MultipleSclerosis,Multiple sclerosis,Dedicated health
+English,https://www.reddit.com/r/POTS/,POTS,Postural orthostatic tachycardia syndrome,Dedicated health
+English,https://www.reddit.com/r/ehlersdanlos/,ehlersdanlos,Ehlers-Danlos syndromes,Dedicated health
+English,https://www.reddit.com/r/crohnsdisease/,crohnsdisease,Crohn's disease,Dedicated health
+English,https://www.reddit.com/r/UlcerativeColitis/,UlcerativeColitis,Ulcerative colitis,Dedicated health
+English,https://www.reddit.com/r/ibs/,ibs,Irritable bowel syndrome,Dedicated health
+English,https://www.reddit.com/r/migraine/,migraine,Migraine,Dedicated health
+English,https://www.reddit.com/r/endometriosis/,endometriosis,Endometriosis,Dedicated health
+English,https://www.reddit.com/r/PCOS/,PCOS,Polycystic ovary syndrome,Dedicated health
+English,https://www.reddit.com/r/Hypothyroidism/,Hypothyroidism,Hypothyroidism,Dedicated health
+English,https://www.reddit.com/r/diabetes/,diabetes,Diabetes,Dedicated health
+English,https://www.reddit.com/r/Asthma/,Asthma,Asthma,Dedicated health
+English,https://www.reddit.com/r/Anxiety/,Anxiety,Anxiety,Mental health
+English,https://www.reddit.com/r/depression/,depression,Depression,Mental health
+English,https://www.reddit.com/r/bipolar/,bipolar,Bipolar disorder,Mental health
+English,https://www.reddit.com/r/BPD/,BPD,Borderline personality disorder,Mental health
+English,https://www.reddit.com/r/ADHD/,ADHD,ADHD,Mental health
+English,https://www.reddit.com/r/ptsd/,ptsd,PTSD,Mental health
+English,https://www.reddit.com/r/CPTSD/,CPTSD,Complex PTSD,Mental health
+English,https://www.reddit.com/r/OCD/,OCD,OCD,Mental health
+English,https://www.reddit.com/r/schizophrenia/,schizophrenia,Schizophrenia,Mental health
+English,https://www.reddit.com/r/mentalhealth/,mentalhealth,General mental health,Mental health
+English,https://www.reddit.com/r/MentalHealthSupport/,MentalHealthSupport,Peer support,Mental health
+English,https://www.reddit.com/r/SuicideWatch/,SuicideWatch,Crisis support,Mental health
+English,https://www.reddit.com/r/HealthAnxiety/,HealthAnxiety,Health anxiety,Mental health
+English,https://www.reddit.com/r/COVID19/,COVID19,COVID-19,Infectious disease / general health
+English,https://www.reddit.com/r/Coronavirus/,Coronavirus,Coronavirus,Infectious disease / general health
+English,https://www.reddit.com/r/HIVandAIDS/,HIVandAIDS,HIV/AIDS,Infectious disease / general health
+English,https://www.reddit.com/r/Herpes/,Herpes,Herpes,Infectious disease / general health
+English,https://www.reddit.com/r/STD/,STD,Sexually transmitted diseases,Infectious disease / general health
+English,https://www.reddit.com/r/Lyme/,Lyme,Lyme disease,Infectious disease / general health
+English,https://www.reddit.com/r/shingles/,shingles,Shingles,Infectious disease / general health
+English,https://www.reddit.com/r/Health/,Health,General health,Infectious disease / general health
+English,https://www.reddit.com/r/medicine/,medicine,Medicine (professional),Infectious disease / general health
+English,https://www.reddit.com/r/AskDocs/,AskDocs,Medical questions,Infectious disease / general health
+English,https://www.reddit.com/r/DiagnoseMe/,DiagnoseMe,Diagnosis questions,Infectious disease / general health
+English,https://www.reddit.com/r/medical_advice/,medical_advice,Medical advice,Infectious disease / general health
+English,https://www.reddit.com/r/surgery/,surgery,Surgery,Surgical / procedural
+English,https://www.reddit.com/r/scoliosis/,scoliosis,Scoliosis,Surgical / procedural
+English,https://www.reddit.com/r/spinalcordinjuries/,spinalcordinjuries,Spinal cord injuries,Surgical / procedural
+English,https://www.reddit.com/r/SpineFusion/,SpineFusion,Spinal fusion,Surgical / procedural
+English,https://www.reddit.com/r/ShoulderInjuries/,ShoulderInjuries,Shoulder injuries,Surgical / procedural
+English,https://www.reddit.com/r/backpain/,backpain,Back pain,Surgical / procedural
+Spanish,https://www.reddit.com/r/Fibromialgia/,Fibromialgia,Fibromyalgia,Dedicated / health
+Spanish,https://www.reddit.com/r/es/,es,General (Spain); health threads,General community
+Spanish,https://www.reddit.com/r/mexico/,mexico,General (Mexico); health discussions,General community
+Spanish,https://www.reddit.com/r/askspanish/,askspanish,General questions; health questions,General community
+Spanish,https://www.reddit.com/r/argentina/,argentina,General (Argentina); health threads,General community
+Spanish,https://www.reddit.com/r/Colombia/,Colombia,General (Colombia); health threads,General community
+Spanish,https://www.reddit.com/r/chile/,chile,General (Chile); health threads,General community
+Spanish,https://www.reddit.com/r/spain/,spain,General (Spain); health threads,General community
+Spanish,https://www.reddit.com/r/Salud/,Salud,General health,Dedicated / health
+Spanish,https://www.reddit.com/r/psicologia/,psicologia,Psychology / mental health,Mental health
+Spanish,https://www.reddit.com/r/ansiedad/,ansiedad,Anxiety,Mental health
+Spanish,https://www.reddit.com/r/depresion/,depresion,Depression,Mental health
+French,https://www.reddit.com/r/questionsante/,questionsante,Health questions,Dedicated health
+French,https://www.reddit.com/r/france/,france,General (France); health threads,General community
+French,https://www.reddit.com/r/AskFrance/,AskFrance,General questions; health questions,General community
+French,https://www.reddit.com/r/francophonie/,francophonie,Francophone general discussion,General community
+French,https://www.reddit.com/r/quebec/,quebec,General (Quebec); health threads,General community
+French,https://www.reddit.com/r/belgique/,belgique,General (Belgium); health threads,General community
+French,https://www.reddit.com/r/suisse/,suisse,General (Switzerland); health threads,General community
+French,https://www.reddit.com/r/psychologie/,psychologie,Psychology / mental health,Mental health
+French,https://www.reddit.com/r/depression_fr/,depression_fr,Depression,Mental health
+French,https://www.reddit.com/r/Anxiete/,Anxiete,Anxiety,Mental health
+French,https://www.reddit.com/r/diabete/,diabete,Diabetes,Chronic illness
+French,https://www.reddit.com/r/cancer/,cancer,Cancer,Chronic illness
+Hindi,https://www.reddit.com/r/india/,india,General (India); health threads,General community
+Hindi,https://www.reddit.com/r/IndiaSpeaks/,IndiaSpeaks,Healthcare policy and clinic experiences,General community
+Hindi,https://www.reddit.com/r/indianmedschool/,indianmedschool,Medical education,Professional / education
+Hindi,https://www.reddit.com/r/DoctorsofIndia/,DoctorsofIndia,Medical professionals,Professional community
+Hindi,https://www.reddit.com/r/TwoXIndia/,TwoXIndia,Women's health,General / women's health
+Hindi,https://www.reddit.com/r/bangalore/,bangalore,General (Bangalore); health threads,General community
+Hindi,https://www.reddit.com/r/mumbai/,mumbai,General (Mumbai); health threads,General community
+Hindi,https://www.reddit.com/r/delhi/,delhi,General (Delhi); health threads,General community
+Hindi,https://www.reddit.com/r/IndianFood/,IndianFood,Food and nutrition,Nutrition-related
+Hindi,https://www.reddit.com/r/IndianFitness/,IndianFitness,Fitness and health,Fitness-related
+Arabic,https://www.reddit.com/r/arabs/,arabs,General (Arab world); health threads,General community
+Arabic,https://www.reddit.com/r/saudiarabia/,saudiarabia,General (Saudi Arabia); health threads,General community
+Arabic,https://www.reddit.com/r/Egypt/,Egypt,General (Egypt); health threads,General community
+Arabic,https://www.reddit.com/r/jordan/,jordan,General (Jordan); health threads,General community
+Arabic,https://www.reddit.com/r/lebanon/,lebanon,General (Lebanon); health threads,General community
+Arabic,https://www.reddit.com/r/Morocco/,Morocco,General (Morocco); health threads,General community
+Arabic,https://www.reddit.com/r/algeria/,algeria,General (Algeria); health threads,General community
+Arabic,https://www.reddit.com/r/Kuwait/,Kuwait,General (Kuwait); health threads,General community
+Arabic,https://www.reddit.com/r/Bahrain/,Bahrain,General (Bahrain); health threads,General community
+Arabic,https://www.reddit.com/r/Oman/,Oman,General (Oman); health threads,General community
+Arabic,https://www.reddit.com/r/qatar/,qatar,General (Qatar); health threads,General community
+Arabic,https://www.reddit.com/r/UAE/,UAE,General (UAE); health threads,General community
