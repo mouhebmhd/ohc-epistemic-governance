@@ -1,6 +1,7 @@
 # Reddit health-community rules pipeline
 
 ## Setup
+#### For data colelction 
 ```bash
 pip install -r requirements.txt
 # create a "script" app at https://www.reddit.com/prefs/apps, then fill config.yaml (or set env vars)
@@ -8,7 +9,13 @@ python collect_reddit.py templates          # codebook, data dictionary, empty a
 python collect_reddit.py collect            # rules, subreddits, posts (add --comments for comments)
 python collect_reddit.py collect --resume   # continue an interrupted run
 ```
+#### For data visualization 
+```bash
+python -m pip install pandas matplotlib
+python -m pip install tabulate
+python analyze_reddit_communities.py
 
+```
 ## Commands
 | command | purpose |
 |---|---|

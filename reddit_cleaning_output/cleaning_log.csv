@@ -1,0 +1,997 @@
+﻿timestamp,stage,language,subreddit,rule_id,action,reason,notes
+2026-10-11T08:00:44+00:00,1,English,cfs,cfs:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,cfs,cfs:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:2,split,SPLIT,Created 6 child entries.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:17,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,cfs,cfs:18,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,cfs,cfs:19,removed,NAV,Navigation/directory title: Related Subreddits
+2026-10-11T08:00:44+00:00,1,English,covidlonghaulers,covidlonghaulers:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,covidlonghaulers,covidlonghaulers:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,covidlonghaulers,covidlonghaulers:14,removed,NAV,Navigation/directory title: Info
+2026-10-11T08:00:44+00:00,1,English,ChronicIllness,ChronicIllness:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,ChronicIllness,ChronicIllness:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicIllness,ChronicIllness:17,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,3,English,ChronicIllness,ChronicIllness:18,removed,NAV,Navigation/directory title: Other Communities
+2026-10-11T08:00:44+00:00,3,English,ChronicIllness,ChronicIllness:19,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,5,English,ChronicPain,ChronicPain:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ChronicPain,ChronicPain:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,Fibromyalgia,Fibromyalgia:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,Fibromyalgia,Fibromyalgia:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,English,Fibromyalgia,Fibromyalgia:11,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,Fibromyalgia,Fibromyalgia:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,lupus,lupus:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,lupus,lupus:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:4,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,lupus,lupus:15,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,3,English,lupus,lupus:16,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,English,MultipleSclerosis,MultipleSclerosis:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,2,English,MultipleSclerosis,MultipleSclerosis:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,English,MultipleSclerosis,MultipleSclerosis:13,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,MultipleSclerosis,MultipleSclerosis:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,POTS,POTS:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,POTS,POTS:17,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,POTS,POTS:18,removed,NAV,Navigation/directory title: Related Communities
+2026-10-11T08:00:44+00:00,3,English,POTS,POTS:19,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,English,ehlersdanlos,ehlersdanlos:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,English,ehlersdanlos,ehlersdanlos:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,ehlersdanlos,ehlersdanlos:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,2,English,crohnsdisease,crohnsdisease:0,retained,HDR_REVIEW,Header-like title has content; retained and sent for review/splitting.
+2026-10-11T08:00:44+00:00,5,English,crohnsdisease,crohnsdisease:0,split,SPLIT,Created 10 child entries.
+2026-10-11T08:00:44+00:00,2,English,crohnsdisease,crohnsdisease:1,retained,HDR_REVIEW,Header-like title has content; retained and sent for review/splitting.
+2026-10-11T08:00:44+00:00,5,English,crohnsdisease,crohnsdisease:1,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,crohnsdisease,crohnsdisease:2,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,1,English,UlcerativeColitis,UlcerativeColitis:0,removed,SYS,System-status title: This page has been disabled
+2026-10-11T08:00:44+00:00,2,English,UlcerativeColitis,UlcerativeColitis:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:4,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:12,split,SPLIT,Created 6 child entries.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,UlcerativeColitis,UlcerativeColitis:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,UlcerativeColitis,UlcerativeColitis:17,removed,NAV,Navigation/directory title: Flairs
+2026-10-11T08:00:44+00:00,3,English,UlcerativeColitis,UlcerativeColitis:18,removed,NAV,Navigation/directory title: Related Subs
+2026-10-11T08:00:44+00:00,3,English,UlcerativeColitis,UlcerativeColitis:19,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,English,ibs,ibs:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,ibs,ibs:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ibs,ibs:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,ibs,ibs:14,removed,NAV,Navigation/directory title: Filter by
+2026-10-11T08:00:44+00:00,3,English,ibs,ibs:15,removed,NAV,Navigation/directory title: Message
+2026-10-11T08:00:44+00:00,3,English,ibs,ibs:16,removed,NAV,Navigation/directory title: Interesting posts
+2026-10-11T08:00:44+00:00,3,English,ibs,ibs:17,removed,NAV,Navigation/directory title: Related subreddits
+2026-10-11T08:00:44+00:00,3,English,ibs,ibs:18,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,English,migraine,migraine:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,2,English,migraine,migraine:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,3,English,migraine,migraine:2,removed,NAV,Navigation/directory title: Discord!
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,migraine,migraine:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,migraine,migraine:14,removed,NAV,Navigation/directory title: Resources
+2026-10-11T08:00:44+00:00,3,English,migraine,migraine:15,removed,NAV,Navigation/directory title: Announcements
+2026-10-11T08:00:44+00:00,3,English,migraine,migraine:16,removed,NAV,Navigation/directory title: Redesign Information
+2026-10-11T08:00:44+00:00,5,English,endometriosis,endometriosis:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,endometriosis,endometriosis:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,endometriosis,endometriosis:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,endometriosis,endometriosis:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,endometriosis,endometriosis:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,endometriosis,endometriosis:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,endometriosis,endometriosis:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,endometriosis,endometriosis:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,2,English,PCOS,PCOS:0,retained,HDR_REVIEW,Header-like title has content; retained and sent for review/splitting.
+2026-10-11T08:00:44+00:00,5,English,PCOS,PCOS:0,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,PCOS,PCOS:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,Hypothyroidism,Hypothyroidism:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,English,Hypothyroidism,Hypothyroidism:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Hypothyroidism,Hypothyroidism:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Hypothyroidism,Hypothyroidism:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Hypothyroidism,Hypothyroidism:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Hypothyroidism,Hypothyroidism:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,English,Hypothyroidism,Hypothyroidism:6,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,Hypothyroidism,Hypothyroidism:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,diabetes,diabetes:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,diabetes,diabetes:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,diabetes,diabetes:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,diabetes,diabetes:3,split,SPLIT,Created 6 child entries.
+2026-10-11T08:00:44+00:00,5,English,diabetes,diabetes:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,diabetes,diabetes:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,diabetes,diabetes:6,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,diabetes,diabetes:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,diabetes,diabetes:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,diabetes,diabetes:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,diabetes,diabetes:10,removed,NAV,Navigation/directory title: Discord
+2026-10-11T08:00:44+00:00,1,English,Asthma,Asthma:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,5,English,Asthma,Asthma:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Asthma,Asthma:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Asthma,Asthma:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,English,Asthma,Asthma:4,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,Asthma,Asthma:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Anxiety,Anxiety:0,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,Anxiety,Anxiety:1,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,English,Anxiety,Anxiety:2,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,English,Anxiety,Anxiety:3,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,English,Anxiety,Anxiety:4,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,English,Anxiety,Anxiety:5,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,Anxiety,Anxiety:6,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,6,English,Anxiety,Anxiety_1_2,removed,DUP,Duplicate normalized title; retained richer description for key='all posts must be related to anxiety disorders'.
+2026-10-11T08:00:44+00:00,4,English,depression,depression:0,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,depression,depression:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,bipolar,bipolar:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,bipolar,bipolar:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:9,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:10,split,SPLIT,Created 7 child entries.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:12,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:13,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:14,removed,NAV,Navigation/directory title: Crisis?
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:15,removed,NAV,Navigation/directory title: FAQs & Quick Links
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:16,removed,NAV,Navigation/directory title: Popular Discussions
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:17,removed,NAV,Navigation/directory title: Prescription Assistance
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:18,removed,NAV,Navigation/directory title: Filter Posts by Flair
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:19,removed,NAV,Navigation/directory title: Top Art Of The Week
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:20,removed,NAV,Navigation/directory title: Art of The Week
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:21,removed,NAV,Navigation/directory title: Reddit Mental Health Network
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:22,removed,NAV,Navigation/directory title: News from RMHN
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:23,removed,NAV,Navigation/directory title: Sister Sub
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:24,removed,NAV,Navigation/directory title: Similar Communities
+2026-10-11T08:00:44+00:00,5,English,bipolar,bipolar:25,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:26,removed,NAV,Navigation/directory title: Community Cloud
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:27,removed,NAV,Navigation/directory title: Want to Join the Mod Team?
+2026-10-11T08:00:44+00:00,3,English,bipolar,bipolar:28,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,6,English,bipolar,bipolar_13_6,removed,DUP,Duplicate normalized title; retained richer description for key='includes standalone memes non original art and infographic posts infographics must have sources'.
+2026-10-11T08:00:44+00:00,6,English,bipolar,bipolar_13_7,removed,DUP,Duplicate normalized title; retained richer description for key='infographics must have sources'.
+2026-10-11T08:00:44+00:00,6,English,bipolar,bipolar_13_8,removed,DUP,Duplicate normalized title; retained richer description for key='infographics must have sources'.
+2026-10-11T08:00:44+00:00,1,English,BPD,BPD:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,BPD,BPD:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:4,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:5,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:7,split,SPLIT,Created 7 child entries.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:11,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,BPD,BPD:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,BPD,BPD:16,removed,NAV,Navigation/directory title: Flair Filters
+2026-10-11T08:00:44+00:00,3,English,BPD,BPD:17,removed,NAV,Navigation/directory title: Stigma Smashing Discords
+2026-10-11T08:00:44+00:00,3,English,BPD,BPD:18,removed,NAV,Navigation/directory title: Stigma Smashing Communities
+2026-10-11T08:00:44+00:00,3,English,BPD,BPD:19,removed,NAV,Navigation/directory title: This sub is LGBTQ+ Friendly
+2026-10-11T08:00:44+00:00,3,English,BPD,BPD:20,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:0,split,SPLIT,Created 10 child entries.
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:2,split,SPLIT,Created 42 child entries.
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:3,split,SPLIT,Created 10 child entries.
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:4,split,SPLIT,Created 11 child entries.
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:5,split,SPLIT,Created 7 child entries.
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:6,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:7,split,SPLIT,Created 7 child entries.
+2026-10-11T08:00:44+00:00,3,English,ADHD,ADHD:8,removed,NAV,Navigation/directory title: Crisis
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:9,split,SPLIT,Created 6 child entries.
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ADHD,ADHD:11,split,SPLIT,Created 13 child entries.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_1_9,removed,DUP,Duplicate normalized title; retained richer description for key='doxing users'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_3_11,removed,DUP,Duplicate normalized title; retained richer description for key='how to get ensure an adhd diagnosis'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_3_21,removed,DUP,Duplicate normalized title; retained richer description for key='what modifications should you make to your dosage'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_3_38,removed,DUP,Duplicate normalized title; retained richer description for key='a i ve had that as well when it happened to me i asked my prescriber for something different'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_3_39,removed,DUP,Duplicate normalized title; retained richer description for key='a i talked to my pharmacist'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_3_40,removed,DUP,Duplicate normalized title; retained richer description for key='a i don t take meds for this reason because i am medication resistant maybe you could ask about being meds resistant'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_3_41,removed,DUP,Duplicate normalized title; retained richer description for key='a i got some blood work done and it showed x you could ask your doc about it'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_3_42,removed,DUP,Duplicate normalized title; retained richer description for key='a i know we are all different but i was prescribed x med for sexual dysfunction and that helped me you could ask about it at your next appointment'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_5_10,removed,DUP,Duplicate normalized title; retained richer description for key='astrology scientology tarot chiropractic reiki faith healing ayurveda crystal'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_5_11,removed,DUP,Duplicate normalized title; retained richer description for key='religious evangelism preaching or proselytizing'.
+2026-10-11T08:00:44+00:00,6,English,ADHD,ADHD_12_12,removed,DUP,Duplicate normalized title; retained richer description for key='links to other health based communities that do not adhere to modern scientific medication philosophies'.
+2026-10-11T08:00:44+00:00,1,English,ptsd,ptsd:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,ptsd,ptsd:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,3,English,ptsd,ptsd:2,removed,NAV,Navigation/directory title: Quicklinks
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:10,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:11,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:14,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ptsd,ptsd:17,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,ptsd,ptsd:18,removed,NAV,Navigation/directory title: Related subreddits
+2026-10-11T08:00:44+00:00,1,English,CPTSD,CPTSD:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,CPTSD,CPTSD:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,CPTSD,CPTSD:14,removed,NAV,Navigation/directory title: Quick links
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:15,split,SPLIT,Created 11 child entries.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:17,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,CPTSD,CPTSD:18,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,CPTSD,CPTSD:19,removed,NAV,Navigation/directory title: Other Subreddits
+2026-10-11T08:00:44+00:00,3,English,CPTSD,CPTSD:20,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,English,OCD,OCD:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,OCD,OCD:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:13,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,3,English,OCD,OCD:14,removed,NAV,Navigation/directory title: Join us on Discord
+2026-10-11T08:00:44+00:00,5,English,OCD,OCD:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,OCD,OCD:16,removed,NAV,Navigation/directory title: Related Subreddits
+2026-10-11T08:00:44+00:00,3,English,OCD,OCD:17,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:0,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:2,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,schizophrenia,schizophrenia:15,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,1,English,mentalhealth,mentalhealth:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,mentalhealth,mentalhealth:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,mentalhealth,mentalhealth:3,removed,NAV,Navigation/directory title: Welcome
+2026-10-11T08:00:44+00:00,3,English,mentalhealth,mentalhealth:4,removed,NAV,Navigation/directory title: Search by post flair
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:17,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:18,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:19,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,mentalhealth,mentalhealth:20,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,mentalhealth,mentalhealth:21,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,English,MentalHealthSupport,MentalHealthSupport:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,MentalHealthSupport,MentalHealthSupport:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,MentalHealthSupport,MentalHealthSupport:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,MentalHealthSupport,MentalHealthSupport:12,removed,NAV,Navigation/directory title: Helpful External Links
+2026-10-11T08:00:44+00:00,3,English,MentalHealthSupport,MentalHealthSupport:13,removed,NAV,Navigation/directory title: Subscriber Info
+2026-10-11T08:00:44+00:00,3,English,MentalHealthSupport,MentalHealthSupport:14,removed,NAV,Navigation/directory title: Post Flairs
+2026-10-11T08:00:44+00:00,3,English,MentalHealthSupport,MentalHealthSupport:15,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,English,SuicideWatch,SuicideWatch:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,3,English,SuicideWatch,SuicideWatch:1,removed,NAV,Navigation/directory title: Resources
+2026-10-11T08:00:44+00:00,4,English,SuicideWatch,SuicideWatch:2,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,SuicideWatch,SuicideWatch:2,split,SPLIT,Created 18 child entries.
+2026-10-11T08:00:44+00:00,6,English,SuicideWatch,SuicideWatch_3_14,removed,DUP,Duplicate normalized title; retained richer description for key='abuse or tough love including any guilt tripping like suicide is selfish or think of your loved ones etc'.
+2026-10-11T08:00:44+00:00,6,English,SuicideWatch,SuicideWatch_3_15,removed,DUP,Duplicate normalized title; retained richer description for key='pro suicide posts or comments or any explicit discussion of suicide methods our policy about incitement is strict please read this wiki before responding'.
+2026-10-11T08:00:44+00:00,6,English,SuicideWatch,SuicideWatch_3_16,removed,DUP,Duplicate normalized title; retained richer description for key='religious proselytizing'.
+2026-10-11T08:00:44+00:00,6,English,SuicideWatch,SuicideWatch_3_17,removed,DUP,Duplicate normalized title; retained richer description for key='trolling or incitement to suicide or any type of self harm or violence'.
+2026-10-11T08:00:44+00:00,6,English,SuicideWatch,SuicideWatch_3_18,removed,DUP,Duplicate normalized title; retained richer description for key='anything that s not a direct personal which means no use of ai whatever supportive response to the op'.
+2026-10-11T08:00:44+00:00,5,English,HealthAnxiety,HealthAnxiety:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,HealthAnxiety,HealthAnxiety:1,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,HealthAnxiety,HealthAnxiety:2,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,HealthAnxiety,HealthAnxiety:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,HealthAnxiety,HealthAnxiety:4,split,SPLIT,Created 6 child entries.
+2026-10-11T08:00:44+00:00,5,English,HealthAnxiety,HealthAnxiety:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,HealthAnxiety,HealthAnxiety:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,HealthAnxiety,HealthAnxiety:7,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,English,HealthAnxiety,HealthAnxiety:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:1,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:9,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,COVID19,COVID19:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Coronavirus,Coronavirus:0,split,SPLIT,Created 35 child entries.
+2026-10-11T08:00:44+00:00,5,English,Coronavirus,Coronavirus:1,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,4,English,HIVandAIDS,HIVandAIDS:0,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,HIVandAIDS,HIVandAIDS:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,Herpes,Herpes:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,Herpes,Herpes:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,Herpes,Herpes:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Herpes,Herpes:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Herpes,Herpes:4,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,English,Herpes,Herpes:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Herpes,Herpes:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Herpes,Herpes:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Herpes,Herpes:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Herpes,Herpes:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Herpes,Herpes:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,Herpes,Herpes:11,removed,NAV,Navigation/directory title: Welcome
+2026-10-11T08:00:44+00:00,1,English,STD,STD:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,English,STD,STD:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:2,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,STD,STD:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,STD,STD:13,removed,NAV,Navigation/directory title: Useful Links!
+2026-10-11T08:00:44+00:00,3,English,STD,STD:14,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,English,Lyme,Lyme:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,English,Lyme,Lyme:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,Lyme,Lyme:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,English,shingles,shingles:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,shingles,shingles:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,shingles,shingles:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,shingles,shingles:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,shingles,shingles:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,shingles,shingles:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,shingles,shingles:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,shingles,shingles:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,shingles,shingles:8,removed,NAV,Navigation/directory title: Community Tags
+2026-10-11T08:00:44+00:00,1,English,Health,Health:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,English,Health,Health:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:2,split,SPLIT,Created 6 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:3,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:4,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:5,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:6,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:8,split,SPLIT,Created 11 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:9,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:10,split,SPLIT,Created 7 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:11,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:12,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,Health,Health:14,split,SPLIT,Created 12 child entries.
+2026-10-11T08:00:44+00:00,3,English,Health,Health:15,removed,NAV,Navigation/directory title: Communities
+2026-10-11T08:00:44+00:00,3,English,Health,Health:16,removed,NAV,Navigation/directory title: Reddit's Disclaimers
+2026-10-11T08:00:44+00:00,3,English,Health,Health:17,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,6,English,Health,Health_11_2,removed,DUP,Duplicate normalized title; retained richer description for key='do not promote health misinformation or promote dangerous alternate remedies'.
+2026-10-11T08:00:44+00:00,6,English,Health,Health_15_8,removed,DUP,Duplicate normalized title; retained richer description for key='opinion articles are subject to removal'.
+2026-10-11T08:00:44+00:00,1,English,medicine,medicine:0,removed,SYS,System-status title: This page has been disabled
+2026-10-11T08:00:44+00:00,2,English,medicine,medicine:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,medicine,medicine:14,removed,NAV,Navigation/directory title: Community Information
+2026-10-11T08:00:44+00:00,3,English,medicine,medicine:15,removed,NAV,Navigation/directory title: Related Subreddits
+2026-10-11T08:00:44+00:00,5,English,medicine,medicine:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,medicine,medicine:17,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,English,AskDocs,AskDocs:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,English,AskDocs,AskDocs:15,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,AskDocs,AskDocs:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,DiagnoseMe,DiagnoseMe:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,English,DiagnoseMe,DiagnoseMe:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,DiagnoseMe,DiagnoseMe:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,DiagnoseMe,DiagnoseMe:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,DiagnoseMe,DiagnoseMe:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,DiagnoseMe,DiagnoseMe:5,split,SPLIT,Created 11 child entries.
+2026-10-11T08:00:44+00:00,5,English,DiagnoseMe,DiagnoseMe:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,DiagnoseMe,DiagnoseMe:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,DiagnoseMe,DiagnoseMe:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,DiagnoseMe,DiagnoseMe:9,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,3,English,DiagnoseMe,DiagnoseMe:10,removed,NAV,Navigation/directory title: Discord
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,medical_advice,medical_advice:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,surgery,surgery:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,English,surgery,surgery:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,surgery,surgery:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,scoliosis,scoliosis:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,English,scoliosis,scoliosis:10,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,scoliosis,scoliosis:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,6,English,scoliosis,scoliosis_2_1,removed,DUP,Duplicate normalized title; retained richer description for key='scoliosis guide and faq'.
+2026-10-11T08:00:44+00:00,1,English,spinalcordinjuries,spinalcordinjuries:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,5,English,spinalcordinjuries,spinalcordinjuries:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,spinalcordinjuries,spinalcordinjuries:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,spinalcordinjuries,spinalcordinjuries:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,spinalcordinjuries,spinalcordinjuries:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,spinalcordinjuries,spinalcordinjuries:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,spinalcordinjuries,spinalcordinjuries:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,English,spinalcordinjuries,spinalcordinjuries:7,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,spinalcordinjuries,spinalcordinjuries:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,SpineFusion,SpineFusion:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,English,SpineFusion,SpineFusion:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,SpineFusion,SpineFusion:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,English,ShoulderInjuries,ShoulderInjuries:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,English,ShoulderInjuries,ShoulderInjuries:12,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,English,ShoulderInjuries,ShoulderInjuries:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,English,backpain,backpain:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,English,backpain,backpain:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,English,backpain,backpain:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,English,backpain,backpain:16,removed,NAV,Navigation/directory title: Helpful Links
+2026-10-11T08:00:44+00:00,7,Spanish,Fibromialgia,,excluded,EXC,status:no_rules_found
+2026-10-11T08:00:44+00:00,1,Spanish,es,es:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Spanish,es,es:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Spanish,es,es:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,Spanish,mexico,mexico:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Spanish,mexico,mexico:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Spanish,mexico,mexico:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,7,Spanish,askspanish,,excluded,EXC,status:no_rules_found
+2026-10-11T08:00:44+00:00,1,Spanish,argentina,argentina:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Spanish,argentina,argentina:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Spanish,argentina,argentina:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,5,Spanish,Colombia,Colombia:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:3,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:4,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:7,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:8,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,Spanish,chile,chile:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,Spanish,spain,spain:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Spanish,spain,spain:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Spanish,spain,spain:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,Spanish,Salud,Salud:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,2,Spanish,Salud,Salud:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,Spanish,Salud,Salud:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,Salud,Salud:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,Salud,Salud:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,Salud,Salud:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Spanish,Salud,Salud:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,Spanish,Salud,Salud:7,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Spanish,Salud,Salud:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,Spanish,psicologia,psicologia:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Spanish,psicologia,psicologia:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Spanish,psicologia,psicologia:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,4,Spanish,ansiedad,ansiedad:0,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Spanish,ansiedad,ansiedad:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,Spanish,depresion,depresion:0,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Spanish,depresion,depresion:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,French,questionsante,questionsante:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,French,questionsante,questionsante:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,French,questionsante,questionsante:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,French,france,france:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,French,france,france:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,French,france,france:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:17,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,france,france:18,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,French,france,france:19,removed,NAV,Navigation/directory title: Communauté
+2026-10-11T08:00:44+00:00,3,French,france,france:20,removed,NAV,Navigation/directory title: Subs d'utilité publique
+2026-10-11T08:00:44+00:00,3,French,france,france:21,removed,NAV,Navigation/directory title: Intervilles
+2026-10-11T08:00:44+00:00,3,French,france,france:22,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,French,AskFrance,AskFrance:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,French,AskFrance,AskFrance:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,French,AskFrance,AskFrance:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,French,francophonie,francophonie:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,French,francophonie,francophonie:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,French,francophonie,francophonie:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,French,quebec,quebec:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,French,quebec,quebec:12,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,French,quebec,quebec:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,French,belgique,belgique:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,belgique,belgique:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,French,belgique,belgique:11,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,French,suisse,suisse:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:10,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,French,suisse,suisse:15,removed,NAV,Navigation/directory title: Flairs
+2026-10-11T08:00:44+00:00,5,French,suisse,suisse:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,French,suisse,suisse:17,removed,NAV,Navigation/directory title: Subreddits amis
+2026-10-11T08:00:44+00:00,1,French,psychologie,psychologie:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,French,psychologie,psychologie:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,French,psychologie,psychologie:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,4,French,depression_fr,depression_fr:0,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,French,depression_fr,depression_fr:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,French,Anxiete,Anxiete:0,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,French,Anxiete,Anxiete:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,7,French,diabete,,excluded,EXC,status:no_rules_found
+2026-10-11T08:00:44+00:00,1,French,cancer,cancer:0,removed,SYS,System-status title: This wiki has been disabled
+2026-10-11T08:00:44+00:00,5,French,cancer,cancer:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,cancer,cancer:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,cancer,cancer:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,cancer,cancer:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,cancer,cancer:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,cancer,cancer:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,French,cancer,cancer:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,French,cancer,cancer:8,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,French,cancer,cancer:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,india,india:0,split,SPLIT,Created 28 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,india,india:1,split,SPLIT,Created 60 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,india,india:2,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,3,Hindi,india,india:3,removed,NAV,Navigation/directory title: Post Flairs
+2026-10-11T08:00:44+00:00,5,Hindi,india,india:4,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,india,india:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,india,india:6,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,IndiaSpeaks,IndiaSpeaks:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,IndiaSpeaks,IndiaSpeaks:1,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,1,Hindi,indianmedschool,indianmedschool:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,Hindi,indianmedschool,indianmedschool:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:4,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:12,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:14,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:15,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,indianmedschool,indianmedschool:17,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,3,Hindi,indianmedschool,indianmedschool:18,removed,NAV,Navigation/directory title: Friendly Communities
+2026-10-11T08:00:44+00:00,3,Hindi,indianmedschool,indianmedschool:19,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,Hindi,DoctorsofIndia,DoctorsofIndia:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Hindi,DoctorsofIndia,DoctorsofIndia:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Hindi,DoctorsofIndia,DoctorsofIndia:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,Hindi,TwoXIndia,TwoXIndia:0,removed,SYS,System-status title: This page has been disabled
+2026-10-11T08:00:44+00:00,2,Hindi,TwoXIndia,TwoXIndia:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,3,Hindi,TwoXIndia,TwoXIndia:2,removed,NAV,Navigation/directory title: Resources
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:6,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:7,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:8,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:9,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:10,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:11,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:12,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:13,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:14,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:15,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:16,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:17,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:18,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:19,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:20,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,3,Hindi,TwoXIndia,TwoXIndia:21,removed,NAV,Navigation/directory title: FAQ
+2026-10-11T08:00:44+00:00,3,Hindi,TwoXIndia,TwoXIndia:22,removed,NAV,Navigation/directory title: TwoX Helplines
+2026-10-11T08:00:44+00:00,3,Hindi,TwoXIndia,TwoXIndia:23,removed,NAV,Navigation/directory title: TwoX Resources
+2026-10-11T08:00:44+00:00,3,Hindi,TwoXIndia,TwoXIndia:24,removed,NAV,Navigation/directory title: Sibling Subreddits
+2026-10-11T08:00:44+00:00,5,Hindi,TwoXIndia,TwoXIndia:25,split,SPLIT,Created 20 child entries.
+2026-10-11T08:00:44+00:00,3,Hindi,TwoXIndia,TwoXIndia:26,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,6,Hindi,TwoXIndia,TwoXIndia_26_18,removed,DUP,Duplicate normalized title; retained richer description for key='announcement'.
+2026-10-11T08:00:44+00:00,1,Hindi,bangalore,bangalore:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:9,split,SPLIT,Created 11 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:13,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:14,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,Hindi,bangalore,bangalore:17,removed,NAV,Navigation/directory title: r/Bangalore Wiki
+2026-10-11T08:00:44+00:00,5,Hindi,bangalore,bangalore:18,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,Hindi,bangalore,bangalore:19,removed,NAV,Navigation/directory title: Apply to be a Moderator
+2026-10-11T08:00:44+00:00,3,Hindi,bangalore,bangalore:20,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:0,split,SPLIT,Created 9 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:1,split,SPLIT,Created 7 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:2,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:3,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:4,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,3,Hindi,mumbai,mumbai:5,removed,NAV,Navigation/directory title: Post Flairs
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:6,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:7,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:8,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:9,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:10,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Hindi,mumbai,mumbai:11,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,1,Hindi,delhi,delhi:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Hindi,delhi,delhi:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Hindi,delhi,delhi:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,Hindi,IndianFood,IndianFood:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,5,Hindi,IndianFood,IndianFood:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,IndianFood,IndianFood:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,IndianFood,IndianFood:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Hindi,IndianFood,IndianFood:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,Hindi,IndianFood,IndianFood:5,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Hindi,IndianFood,IndianFood:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,Hindi,IndianFitness,IndianFitness:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Hindi,IndianFitness,IndianFitness:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Hindi,IndianFitness,IndianFitness:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,Arabic,arabs,arabs:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Arabic,arabs,arabs:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Arabic,arabs,arabs:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,Arabic,saudiarabia,saudiarabia:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,Arabic,saudiarabia,saudiarabia:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,saudiarabia,saudiarabia:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,Arabic,saudiarabia,saudiarabia:16,removed,NAV,Navigation/directory title: Related Subreddits
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:1,split,SPLIT,Created 13 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:2,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:5,split,SPLIT,Created 7 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:6,split,SPLIT,Created 5 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Egypt,Egypt:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,Arabic,jordan,jordan:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,Arabic,jordan,jordan:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,Arabic,jordan,jordan:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,jordan,jordan:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,jordan,jordan:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,jordan,jordan:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,jordan,jordan:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,jordan,jordan:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,jordan,jordan:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,jordan,jordan:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,4,Arabic,jordan,jordan:10,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Arabic,jordan,jordan:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,2,Arabic,lebanon,lebanon:0,retained,HDR_REVIEW,Header-like title has content; retained and sent for review/splitting.
+2026-10-11T08:00:44+00:00,5,Arabic,lebanon,lebanon:0,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,lebanon,lebanon:1,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,lebanon,lebanon:2,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,2,Arabic,lebanon,lebanon:3,retained,HDR_REVIEW,Header-like title has content; retained and sent for review/splitting.
+2026-10-11T08:00:44+00:00,5,Arabic,lebanon,lebanon:3,split,SPLIT,Created 47 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,lebanon,lebanon:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Morocco,Morocco:0,split,SPLIT,Created 6 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Morocco,Morocco:1,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Morocco,Morocco:2,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Morocco,Morocco:3,split,SPLIT,Created 4 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Morocco,Morocco:4,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Morocco,Morocco:5,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Morocco,Morocco:6,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,algeria,algeria:0,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,algeria,algeria:1,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,algeria,algeria:2,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,algeria,algeria:3,split,SPLIT,Created 3 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,algeria,algeria:4,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,algeria,algeria:5,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,algeria,algeria:6,split,SPLIT,Created 2 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,algeria,algeria:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,1,Arabic,Kuwait,Kuwait:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,Arabic,Kuwait,Kuwait:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:11,split,SPLIT,Created 6 child entries.
+2026-10-11T08:00:44+00:00,5,Arabic,Kuwait,Kuwait:12,split,SPLIT,Created 6 child entries.
+2026-10-11T08:00:44+00:00,3,Arabic,Kuwait,Kuwait:13,removed,NAV,Navigation/directory title: Colophon
+2026-10-11T08:00:44+00:00,1,Arabic,Bahrain,Bahrain:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Arabic,Bahrain,Bahrain:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Arabic,Bahrain,Bahrain:1,split,SPLIT,Created 8 child entries.
+2026-10-11T08:00:44+00:00,1,Arabic,Oman,Oman:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,Arabic,Oman,Oman:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,Oman,Oman:17,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,Arabic,Oman,Oman:18,removed,NAV,Navigation/directory title: Sultanate of Oman
+2026-10-11T08:00:44+00:00,3,Arabic,Oman,Oman:19,removed,NAV,Navigation/directory title: Glimpses of Oman
+2026-10-11T08:00:44+00:00,1,Arabic,qatar,qatar:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,2,Arabic,qatar,qatar:1,removed,HDR,Header with empty/link-only description: Community Bookmarks
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:2,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:3,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:4,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:5,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:6,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:7,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:8,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:9,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:10,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:11,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:12,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:13,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:14,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:15,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,5,Arabic,qatar,qatar:16,retained,KEEP,No clear list boundary detected; retained as one entry.
+2026-10-11T08:00:44+00:00,3,Arabic,qatar,qatar:17,removed,NAV,Navigation/directory title: Quick Info
+2026-10-11T08:00:44+00:00,3,Arabic,qatar,qatar:18,removed,NAV,Navigation/directory title: Installed Apps
+2026-10-11T08:00:44+00:00,1,Arabic,UAE,UAE:0,removed,SYS,"System-status title: ""rules"" does not exist"
+2026-10-11T08:00:44+00:00,4,Arabic,UAE,UAE:1,truncated,BOIL,Truncated platform footer from description.
+2026-10-11T08:00:44+00:00,5,Arabic,UAE,UAE:1,split,SPLIT,Created 8 child entries.
