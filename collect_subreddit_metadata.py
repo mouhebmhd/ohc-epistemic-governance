@@ -1,4 +1,3 @@
-
 import csv
 import json
 import os
@@ -12,11 +11,14 @@ import requests
 # Configuration
 # ============================================================
 
-INPUT_CSV = Path("data/reddit_health_communities_multilingual.csv")
+INPUT_CSV = Path("data/health_communities.csv")
 OUTPUT_JSON = Path("data/reddit_health_communities_metadata.json")
 ERRORS_JSONL = Path("data/reddit_metadata_errors.jsonl")
 
 BASE_URL = "https://app.kodexisapi.com/marketplace/reddit/api/reddit"
+
+# Set the API key in your environment:
+# PowerShell:
 API_KEY = "kp_live_c8aE2YR-WbHYgf5vL0dVa2Vp7bmzdFwz32zE5qE3-aE"
 
 TIMEOUT = 15
@@ -55,6 +57,8 @@ def load_existing_dataset():
 
 def save_dataset(records):
     """Atomically save the dataset to avoid losing progress."""
+    OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
+
     temporary_file = OUTPUT_JSON.with_suffix(".json.tmp")
 
     with temporary_file.open("w", encoding="utf-8") as f:
@@ -70,6 +74,8 @@ def save_dataset(records):
 
 def log_error(error_record):
     """Append a failure to a JSONL error log."""
+    ERRORS_JSONL.parent.mkdir(parents=True, exist_ok=True)
+
     with ERRORS_JSONL.open("a", encoding="utf-8") as f:
         f.write(
             json.dumps(error_record, ensure_ascii=False) + "\n"
@@ -112,7 +118,10 @@ def fetch_subreddit_metadata(session, subreddit_name):
                 return metadata, None
 
             # Retry rate limits and temporary server errors.
-            if response.status_code == 429 or response.status_code >= 500:
+            if (
+                response.status_code == 429
+                or response.status_code >= 500
+            ):
                 if attempt < MAX_RETRIES:
                     retry_after = response.headers.get("Retry-After")
 
@@ -124,7 +133,7 @@ def fetch_subreddit_metadata(session, subreddit_name):
                     time.sleep(wait)
                     continue
 
-            # Do not repeatedly retry permanent errors such as 401/403/404.
+            # Permanent errors: do not retry.
             return None, {
                 "status_code": response.status_code,
                 "error": response.text[:1000],
@@ -158,15 +167,18 @@ def main():
     if not INPUT_CSV.exists():
         raise SystemExit(f"ERROR: CSV not found: {INPUT_CSV}")
 
-    # Read and validate the input CSV.
-    with INPUT_CSV.open("r", encoding="utf-8-sig", newline="") as f:
+    # Read and validate the updated CSV.
+    with INPUT_CSV.open(
+        "r",
+        encoding="utf-8-sig",
+        newline="",
+    ) as f:
         reader = csv.DictReader(f)
 
         required_columns = {
+            "subreddit_index",
             "subreddit_name",
-            "language",
-            "community_type",
-            "disease_category",
+            "subreddit_url",
         }
 
         missing = required_columns - set(reader.fieldnames or [])
@@ -177,21 +189,32 @@ def main():
             )
 
         communities = []
+        seen = set()
+
         for row in reader:
             name = (row.get("subreddit_name") or "").strip()
 
             if not name:
                 continue
 
-            # Preserve the original CSV metadata.
+            # Avoid duplicate requests for the same subreddit.
+            key = name.casefold()
+            if key in seen:
+                continue
+            seen.add(key)
+
+            raw_index = (row.get("subreddit_index") or "").strip()
+
+            try:
+                subreddit_index = int(raw_index)
+            except ValueError:
+                subreddit_index = raw_index
+
             communities.append({
+                "subreddit_index": subreddit_index,
                 "subreddit_name": name,
-                "language": (row.get("language") or "").strip(),
-                "community_type": (
-                    row.get("community_type") or ""
-                ).strip(),
-                "disease_category": (
-                    row.get("disease_category") or ""
+                "subreddit_url": (
+                    row.get("subreddit_url") or ""
                 ).strip(),
             })
 
@@ -207,7 +230,8 @@ def main():
     }
 
     pending = [
-        community for community in communities
+        community
+        for community in communities
         if community["subreddit_name"].casefold() not in completed
     ]
 
@@ -233,7 +257,8 @@ def main():
             )
 
             metadata, error = fetch_subreddit_metadata(
-                session, name
+                session,
+                name,
             )
 
             if error is None:
