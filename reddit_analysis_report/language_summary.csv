@@ -1,6 +1,0 @@
-﻿language,n_communities,n_rules,mean_rules_per_community,median_rules_per_community,min_rules,max_rules,communities_without_rules,communities_with_duplicates,empty_descriptions,duplicate_rules,total_links
-English,49,590,12.040816326530612,12.0,1,29,0,0,81,0,970
-Arabic,12,118,9.833333333333334,9.5,2,20,0,0,17,0,140
-French,12,85,7.083333333333333,2.0,0,23,1,0,22,0,174
-Spanish,12,31,2.5833333333333335,2.0,0,10,2,0,12,0,85
-Hindi,10,101,10.1,6.5,2,27,0,0,19,0,175

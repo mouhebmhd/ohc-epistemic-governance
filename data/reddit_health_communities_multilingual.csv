@@ -1,0 +1,284 @@
+﻿subreddit_name,language,community_type,disease_category
+AskDocs,English,Health discussion / support,General Health
+medical_advice,English,Health discussion / support,General Health
+HealthAnxiety,English,Health discussion / support,General Health
+hypochondria,English,Health discussion / support,General Health
+medical,English,Health discussion / support,General Health
+Health,English,Health discussion / support,General Health
+depression,English,Health discussion / support,General Health
+anxiety,English,Health discussion / support,General Health
+mentalhealth,English,Health discussion / support,General Health
+mentalillness,English,Health discussion / support,General Health
+chronicillness,English,Health discussion / support,General Health
+ChronicPain,English,Health discussion / support,General Health
+disability,English,Health discussion / support,General Health
+disabilities,English,Health discussion / support,General Health
+rareDiseases,English,Health discussion / support,General Health
+chronicfatigue,English,Health discussion / support,General Health
+fibromyalgia,English,Health discussion / support,General Health
+lupus,English,Health discussion / support,General Health
+rheumatoidarthritis,English,Health discussion / support,General Health
+arthritis,English,Health discussion / support,General Health
+multiple,English,Health discussion / support,General Health
+sclerosis,English,Health discussion / support,General Health
+Parkinsons,English,Health discussion / support,General Health
+Huntington,English,Health discussion / support,General Health
+disease,English,Health discussion / support,General Health
+diabetes,English,Health discussion / support,General Health
+Type1Diabetes,English,Health discussion / support,General Health
+Type2Diabetes,English,Health discussion / support,General Health
+prediabetes,English,Health discussion / support,General Health
+cancer,English,Health discussion / support,General Health
+breastcancer,English,Health discussion / support,General Health
+lungcancer,English,Health discussion / support,General Health
+leukemia,English,Health discussion / support,General Health
+lymphoma,English,Health discussion / support,General Health
+ovariancancer,English,Health discussion / support,General Health
+prostatecancer,English,Health discussion / support,General Health
+cervicalcancer,English,Health discussion / support,General Health
+skin_cancer,English,Health discussion / support,General Health
+heartdisease,English,Health discussion / support,General Health
+hypertension,English,Health discussion / support,General Health
+stroke,English,Health discussion / support,General Health
+asthma,English,Health discussion / support,General Health
+COPD,English,Health discussion / support,General Health
+allergies,English,Health discussion / support,General Health
+eczema,English,Health discussion / support,General Health
+psoriasis,English,Health discussion / support,General Health
+acne,English,Health discussion / support,General Health
+rosacea,English,Health discussion / support,General Health
+IBS,English,Health discussion / support,General Health
+CrohnsDisease,English,Health discussion / support,General Health
+UlcerativeColitis,English,Health discussion / support,General Health
+celiac,English,Health discussion / support,General Health
+GERD,English,Health discussion / support,General Health
+gastritis,English,Health discussion / support,General Health
+pancreatitis,English,Health discussion / support,General Health
+kidneyDisease,English,Health discussion / support,General Health
+dialysis,English,Health discussion / support,General Health
+liverdisease,English,Health discussion / support,General Health
+epilepsy,English,Health discussion / support,General Health
+migraine,English,Health discussion / support,General Health
+concussion,English,Health discussion / support,General Health
+tinnitus,English,Health discussion / support,General Health
+endometriosis,English,Health discussion / support,General Health
+PCOS,English,Health discussion / support,General Health
+infertility,English,Health discussion / support,General Health
+pregnancy,English,Health discussion / support,General Health
+babybumps,English,Health discussion / support,General Health
+menopause,English,Health discussion / support,General Health
+womenshealth,English,Health discussion / support,General Health
+menshealth,English,Health discussion / support,General Health
+testosterone,English,Health discussion / support,General Health
+sexualhealth,English,Health discussion / support,General Health
+STI,English,Health discussion / support,General Health
+HIV,English,Health discussion / support,General Health
+AIDS,English,Health discussion / support,General Health
+herpes,English,Health discussion / support,General Health
+HPV,English,Health discussion / support,General Health
+autism,English,Health discussion / support,General Health
+ADHD,English,Health discussion / support,General Health
+neurodiversity,English,Health discussion / support,General Health
+schizophrenia,English,Health discussion / support,General Health
+bipolar,English,Health discussion / support,General Health
+PTSD,English,Health discussion / support,General Health
+OCD,English,Health discussion / support,General Health
+addictionrecovery,English,Health discussion / support,General Health
+eatingdisorders,English,Health discussion / support,General Health
+insomnia,English,Health discussion / support,General Health
+sleep,English,Health discussion / support,General Health
+apnea,English,Health discussion / support,General Health
+obesity,English,Health discussion / support,General Health
+nutrition,English,Health discussion / support,General Health
+vegetarian,English,Health discussion / support,General Health
+vegan,English,Health discussion / support,General Health
+Fitness,English,Health discussion / support,General Health
+skincareaddiction,English,Health discussion / support,General Health
+hairloss,English,Health discussion / support,General Health
+dentistry,English,Health discussion / support,General Health
+braces,English,Health discussion / support,General Health
+vision,English,Health discussion / support,General Health
+eyehealth,English,Health discussion / support,General Health
+hearing,English,Health discussion / support,General Health
+LongCovid,English,Health discussion / support,General Health
+COVID19,English,Health discussion / support,General Health
+coronavirus,English,Health discussion / support,General Health
+flu,English,Health discussion / support,General Health
+vaccines,English,Health discussion / support,General Health
+immunology,English,Health discussion / support,General Health
+microbiology,English,Health discussion / support,General Health
+epidemiology,English,Health discussion / support,General Health
+medicalschool,English,Health discussion / support,General Health
+medicine,English,Health discussion / support,General Health
+nursing,English,Health discussion / support,General Health
+pharmacy,English,Health discussion / support,General Health
+publichealth,English,Health discussion / support,General Health
+healthIT,English,Health discussion / support,General Health
+digitalhealth,English,Health discussion / support,General Health
+telehealth,English,Health discussion / support,General Health
+panicattack,English,Mental health support,Mental Health
+socialanxiety,English,Mental health support,Mental Health
+SuicideWatch,English,Mental health support,Mental Health
+ADHDwomen,English,Condition-specific / support,Neurodevelopmental
+ADHDers,English,Condition-specific / support,Neurodevelopmental
+autism_parenting,English,Condition-specific / support,Neurodevelopmental
+aspergers,English,Condition-specific / support,Neurodevelopmental
+BPD,English,Condition-specific / support,Mental Health
+borderlinePDisorder,English,Condition-specific / support,Mental Health
+CPTSD,English,Condition-specific / support,Mental Health
+trauma,English,Condition-specific / support,Mental Health
+POTS,English,Condition-specific / support,Chronic / Rare Conditions
+dysautonomia,English,Condition-specific / support,Chronic / Rare Conditions
+EDS,English,Condition-specific / support,Chronic / Rare Conditions
+gastroparesis,English,Condition-specific / support,Chronic / Rare Conditions
+MCAS,English,Condition-specific / support,Chronic / Rare Conditions
+Gout,English,Condition-specific / support,Blood / Musculoskeletal
+osteoporosis,English,Condition-specific / support,Blood / Musculoskeletal
+anemia,English,Condition-specific / support,Blood / Musculoskeletal
+hemophilia,English,Condition-specific / support,Blood / Musculoskeletal
+Crohns,English,Condition-specific / support,Digestive Health
+ostomy,English,Condition-specific / support,Digestive Health
+IBSresearch,English,Condition-specific / support,Digestive Health
+keratosis,English,Condition-specific / support,Skin Conditions
+pilaris,English,Condition-specific / support,Skin Conditions
+hidradenitis,English,Condition-specific / support,Skin Conditions
+suppurativa,English,Condition-specific / support,Skin Conditions
+IVF,English,Patient / family support,Reproductive and Maternal Health
+infertilitybabies,English,Patient / family support,Reproductive and Maternal Health
+breastfeeding,English,Patient / family support,Reproductive and Maternal Health
+beyondthebump,English,Patient / family support,Reproductive and Maternal Health
+menshealthover30,English,Health discussion / support,Reproductive Health
+menopause_support,English,Health discussion / support,Reproductive Health
+stopdrinking,English,Recovery / health support,Substance Use / Recovery
+leaves,English,Recovery / health support,Substance Use / Recovery
+sante,French / Mixed,General / country community,General Health
+AskFrance,French / Mixed,General / country community,General Health
+france,French / Mixed,General / country community,General Health
+Quebec,French / Mixed,General / country community,General Health
+Doctissimo,French,Health discussion / support,General Health
+depressionfr,French,Mental health support,Mental Health
+TDAH,French,Condition-specific / support,Neurodevelopmental
+autisme,French,Condition-specific / support,Neurodevelopmental
+endométriose,French,Condition-specific / support,Reproductive Health
+endometriose,French,Condition-specific / support,Reproductive Health
+grossesse,French,Patient / family support,Pregnancy
+addictions,French,Recovery / health discussion,Substance Use
+Arabs,Arabic / Mixed,General / regional community,General Health
+Arabic,Arabic / Mixed,General / regional community,General Health
+Egypt,Arabic / Mixed,Country / regional community,General Health
+AskEgypt,Arabic / Mixed,Country / regional community,General Health
+RedditMasr,Arabic / Mixed,Country / regional community,General Health
+Cairo,Arabic / Mixed,Country / regional community,General Health
+SaudiForSaudis,Arabic / Mixed,Country / regional community,General Health
+KingdomOfSaudiArabia,Arabic / Mixed,Country / regional community,General Health
+Riyadh,Arabic / Mixed,Country / regional community,General Health
+Jeddah,Arabic / Mixed,Country / regional community,General Health
+Tunisia,Arabic / Mixed,Country / regional community,General Health
+Morocco,Arabic / Mixed,Country / regional community,General Health
+Maroc,Arabic / Mixed,Country / regional community,General Health
+Lebanon,Arabic / Mixed,Country / regional community,General Health
+Lebanese,Arabic / Mixed,Country / regional community,General Health
+Jordan,Arabic / Mixed,Country / regional community,General Health
+Jordanians,Arabic / Mixed,Country / regional community,General Health
+Amman,Arabic / Mixed,Country / regional community,General Health
+Sudan,Arabic / Mixed,Country / regional community,General Health
+ExSudan,Arabic / Mixed,Country / regional community,General Health
+Iraq,Arabic / Mixed,Country / regional community,General Health
+Iraqis,Arabic / Mixed,Country / regional community,General Health
+Syria,Arabic / Mixed,Country / regional community,General Health
+Palestine,Arabic / Mixed,Country / regional community,General Health
+Libya,Arabic / Mixed,Country / regional community,General Health
+Algeria,Arabic / Mixed,Country / regional community,General Health
+Mauritania,Arabic / Mixed,Country / regional community,General Health
+Qatar,Arabic / Mixed,Country / regional community,General Health
+Oman,Arabic / Mixed,Country / regional community,General Health
+Kuwait,Arabic / Mixed,Country / regional community,General Health
+Bahrain,Arabic / Mixed,Country / regional community,General Health
+Yemen,Arabic / Mixed,Country / regional community,General Health
+Italia,Italian / Mixed,Country / language community,General Health
+italy,Italian / Mixed,Country / language community,General Health
+ItalianLearning,Italian / Mixed,Country / language community,General Health
+salute,Italian,General-health discussion,General Health
+medicina,Italian,Medical discussion,General Health
+psicologia,Italian,Mental health / psychology,Mental Health
+espanol,Spanish / Mixed,Country / regional community,General Health
+Spain,Spanish / Mixed,Country / regional community,General Health
+Espana,Spanish / Mixed,Country / regional community,General Health
+Mexico,Spanish / Mixed,Country / regional community,General Health
+ColombiaReddit,Spanish / Mixed,Country / regional community,General Health
+argentina,Spanish / Mixed,Country / regional community,General Health
+Chile,Spanish / Mixed,Country / regional community,General Health
+uruguay,Spanish / Mixed,Country / regional community,General Health
+salud,Spanish,General-health discussion,General Health
+de,German / Mixed,Country / language community,General Health
+German,German / Mixed,Country / language community,General Health
+Austria,German / Mixed,Country / language community,General Health
+Schweiz,German / Mixed,Country / language community,General Health
+medizin,German,Medical discussion,General Health
+psychologie,German,Mental health / psychology,Mental Health
+Portugal,Portuguese / Mixed,Country / regional community,General Health
+brasil,Portuguese / Mixed,Country / regional community,General Health
+portugalBR,Portuguese / Mixed,Country / regional community,General Health
+saude,Portuguese,General-health discussion,General Health
+india,Hindi / English / Mixed,Country / regional community,General Health
+IndianPeopleAsk,Hindi / English / Mixed,Country / regional community,General Health
+IndiaSpeaks,Hindi / English / Mixed,Country / regional community,General Health
+hindi,Hindi / Mixed,Language community,General Health
+Pakistan,Urdu / English / Mixed,Country / regional community,General Health
+Pakistanis,Urdu / English / Mixed,Country / regional community,General Health
+AskPakistan,Urdu / English / Mixed,Country / regional community,General Health
+bangladesh,Bengali / English / Mixed,Country / regional community,General Health
+Nepal,Nepali / English / Mixed,Country / regional community,General Health
+srilanka,Sinhala / Tamil / English / Mixed,Country / regional community,General Health
+China,Chinese / Mixed,Country / regional community,General Health
+chinese,Chinese / Mixed,Country / regional community,General Health
+Taiwan,Chinese / Mixed,Country / regional community,General Health
+HongKong,Chinese / Mixed,Country / regional community,General Health
+japan,Japanese / Korean / Mixed,Country / regional community,General Health
+Japanese,Japanese / Korean / Mixed,Country / regional community,General Health
+Korea,Japanese / Korean / Mixed,Country / regional community,General Health
+korean,Japanese / Korean / Mixed,Country / regional community,General Health
+indonesia,Indonesian / Malay / English / Mixed,Country / regional community,General Health
+indonesian,Indonesian / Malay / English / Mixed,Country / regional community,General Health
+malaysia,Indonesian / Malay / English / Mixed,Country / regional community,General Health
+Singapore,Indonesian / Malay / English / Mixed,Country / regional community,General Health
+Philippines,Local language / English / Mixed,Country / regional community,General Health
+Filipino,Local language / English / Mixed,Country / regional community,General Health
+Thailand,Local language / English / Mixed,Country / regional community,General Health
+Vietnam,Local language / English / Mixed,Country / regional community,General Health
+Russia,Local language / Mixed,Country / regional community,General Health
+russian,Local language / Mixed,Country / regional community,General Health
+Ukraine,Local language / Mixed,Country / regional community,General Health
+Ukraine_UA,Local language / Mixed,Country / regional community,General Health
+Poland,Local language / Mixed,Country / regional community,General Health
+Polska,Local language / Mixed,Country / regional community,General Health
+Greece,Greek / Turkish / Mixed,Country / regional community,General Health
+ellada,Greek / Turkish / Mixed,Country / regional community,General Health
+Turkey,Greek / Turkish / Mixed,Country / regional community,General Health
+Türkiye,Greek / Turkish / Mixed,Country / regional community,General Health
+Netherlands,Local language / English / Mixed,Country / regional community,General Health
+nederlands,Local language / English / Mixed,Country / regional community,General Health
+Belgium,Local language / English / Mixed,Country / regional community,General Health
+Denmark,Local language / English / Mixed,Country / regional community,General Health
+suomi,Local language / English / Mixed,Country / regional community,General Health
+Sweden,Local language / English / Mixed,Country / regional community,General Health
+Norge,Local language / English / Mixed,Country / regional community,General Health
+SouthAfrica,Local language / English / Mixed,Country / regional community,General Health
+Kenya,Local language / English / Mixed,Country / regional community,General Health
+Nigeria,Local language / English / Mixed,Country / regional community,General Health
+Ghana,Local language / English / Mixed,Country / regional community,General Health
+Ethiopia,Local language / English / Mixed,Country / regional community,General Health
+healthcare,English,Health / research discussion,General Health / Public Health
+healthinsurance,English,Health / research discussion,General Health / Public Health
+healthpolicy,English,Health / research discussion,General Health / Public Health
+healthprofessionals,English,Health / research discussion,General Health / Public Health
+medicalresearch,English,Health / research discussion,General Health / Public Health
+clinicalresearch,English,Health / research discussion,General Health / Public Health
+clinicaltrials,English,Health / research discussion,General Health / Public Health
+scienceask,English,Health / research discussion,General Health / Public Health
+science,English,Health / research discussion,General Health / Public Health
+COVIDSupport,English,Health / research discussion,General Health / Public Health
+COVIDlonghaulers,English,Health / research discussion,General Health / Public Health
+LongHaulers,English,Health / research discussion,General Health / Public Health
+fertility,English,Health / research discussion,General Health / Public Health
+diabetes_t1,English,Health / research discussion,General Health / Public Health
