@@ -1,0 +1,90 @@
+Run at: 2026-10-13 14:54:54
+Input: data/reddit_health_communities_metadata.json
+Output: data/configuration.csv
+
+Total lines read: 1215
+Lines parsed successfully: 1152
+Lines skipped: 63
+  - line 4: missing metadata.data
+  - line 22: missing display_name
+  - line 24: missing metadata.data
+  - line 38: missing metadata.data
+  - line 66: missing metadata.data
+  - line 73: missing metadata.data
+  - line 75: missing metadata.data
+  - line 96: missing metadata.data
+  - line 139: missing display_name
+  - line 141: missing display_name
+  - line 146: missing display_name
+  - line 147: missing metadata.data
+  - line 150: missing display_name
+  - line 151: missing metadata.data
+  - line 152: missing metadata.data
+  - line 153: missing metadata.data
+  - line 154: missing metadata.data
+  - line 158: missing metadata.data
+  - line 168: missing metadata.data
+  - line 175: missing metadata.data
+  - line 277: missing metadata.data
+  - line 312: missing metadata.data
+  - line 322: missing metadata.data
+  - line 409: missing metadata.data
+  - line 430: missing metadata.data
+  - line 484: missing metadata.data
+  - line 516: missing metadata.data
+  - line 527: missing metadata.data
+  - line 580: missing metadata.data
+  - line 643: missing metadata.data
+  - line 723: missing metadata.data
+  - line 760: missing metadata.data
+  - line 770: missing metadata.data
+  - line 807: missing metadata.data
+  - line 822: missing metadata.data
+  - line 823: missing metadata.data
+  - line 833: missing metadata.data
+  - line 844: missing metadata.data
+  - line 850: missing metadata.data
+  - line 859: missing metadata.data
+  - line 900: missing metadata.data
+  - line 917: missing metadata.data
+  - line 938: missing metadata.data
+  - line 943: missing metadata.data
+  - line 973: missing metadata.data
+  - line 981: missing metadata.data
+  - line 1006: missing metadata.data
+  - line 1014: missing metadata.data
+  - line 1030: missing metadata.data
+  - line 1042: missing metadata.data
+  - line 1045: missing metadata.data
+  - line 1053: missing metadata.data
+  - line 1065: missing metadata.data
+  - line 1078: missing metadata.data
+  - line 1097: missing metadata.data
+  - line 1130: missing metadata.data
+  - line 1137: missing metadata.data
+  - line 1138: missing metadata.data
+  - line 1145: missing metadata.data
+  - line 1157: missing metadata.data
+  - line 1196: missing metadata.data
+  - line 1200: missing display_name
+  - line 1204: missing metadata.data
+
+Unique communities: 1152
+
+Count per language:
+  en: 1142
+  es: 2
+  fr: 1
+  unknown: 7
+
+Count per disease category:
+  chronic: 56
+  general: 743
+  infectious: 112
+  mental_health: 209
+  surgical: 32
+
+Count per sample group:
+  english_core: 1142
+  multilingual: 3
+  unclassified: 7
