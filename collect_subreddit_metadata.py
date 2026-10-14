@@ -19,7 +19,9 @@ BASE_URL = "https://app.kodexisapi.com/marketplace/reddit/api/reddit"
 
 # Set the API key in your environment:
 # PowerShell:
-API_KEY = "kp_live_c8aE2YR-WbHYgf5vL0dVa2Vp7bmzdFwz32zE5qE3-aE"
+#old api key can be used kp_live_c8aE2YR-WbHYgf5vL0dVa2Vp7bmzdFwz32zE5qE3-aE 
+#old api key can be used kp_live_lAwEVP14FsK6Sh6D8I1v3U1cS1JGhzqGjVTzkruJ9RE
+API_KEY = "kp_live_CyMwkidBF-vaKFag0eQinXFbpzuu3q1ZW9Ov1vKcOPQ"
 
 TIMEOUT = 15
 MAX_RETRIES = 4

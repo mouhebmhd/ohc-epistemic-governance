@@ -826,9 +826,9 @@ KEYWORDS = [
 
 def map_language(raw):
     if not isinstance(raw, str) or not raw.strip():
-        return "unknown"
+        return "non-english"
     code = raw.strip().lower().replace("_", "-").split("-")[0]
-    return code if code in TARGET_LANGS else "unknown"
+    return code if code in TARGET_LANGS and code=="en" else "non-english"
 
 
 def assign_category(name_lc):
@@ -845,7 +845,7 @@ def assign_sample_group(language, data):
         return "english_core"
     if language in ("es", "fr", "hi", "ar"):
         return "multilingual"
-    return "unclassified"  # language unknown: spec doesn't say; flagged for review
+    return "non-english-core"  # language unknown: spec doesn't say; flagged for review
 
 
 def iter_records(path):

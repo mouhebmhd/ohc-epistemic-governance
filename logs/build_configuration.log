@@ -1,10 +1,10 @@
-Run at: 2026-10-13 14:54:54
+Run at: 2026-10-14 09:47:12
 Input: data/reddit_health_communities_metadata.json
 Output: data/configuration.csv
 
-Total lines read: 1215
-Lines parsed successfully: 1152
-Lines skipped: 63
+Total lines read: 1390
+Lines parsed successfully: 1323
+Lines skipped: 67
   - line 4: missing metadata.data
   - line 22: missing display_name
   - line 24: missing metadata.data
@@ -68,23 +68,24 @@ Lines skipped: 63
   - line 1196: missing metadata.data
   - line 1200: missing display_name
   - line 1204: missing metadata.data
+  - line 1217: missing metadata.data
+  - line 1242: missing metadata.data
+  - line 1247: missing metadata.data
+  - line 1251: missing metadata.data
 
-Unique communities: 1152
+Unique communities: 1323
 
 Count per language:
-  en: 1142
-  es: 2
-  fr: 1
-  unknown: 7
+  en: 1258
+  non-english: 65
 
 Count per disease category:
-  chronic: 56
-  general: 743
-  infectious: 112
-  mental_health: 209
-  surgical: 32
+  chronic: 165
+  general: 659
+  infectious: 140
+  mental_health: 330
+  surgical: 29
 
 Count per sample group:
-  english_core: 1142
-  multilingual: 3
-  unclassified: 7
+  english_core: 1258
+  non-english-core: 65
